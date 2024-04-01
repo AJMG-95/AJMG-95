@@ -5,10 +5,14 @@
 ```js
 const ajmg = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, Bootstrap],
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  tools: ['Angular', 'Bootstrap'],
+  passions: ['Web Development']
 }
 ```
+You can find me 🌍:
+- [linkedin](https://www.linkedin.com/in/aj-marchena/)
+
 <!--
 **AJMG-95/AJMG-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
