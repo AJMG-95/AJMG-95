@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[https://github.com/AJMG-95/AJMG-95/assets/73720092/6cc8c1e1-b9a9-4deb-96bd-342e603c7764]()
+
 ```js
 const ajmg = {
   pronouns: "he" | "him",
