@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+```js
+const ajmg = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Bootstrap],
+}
+```
 <!--
 **AJMG-95/AJMG-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
