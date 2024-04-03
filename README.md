@@ -49,20 +49,21 @@ const ajmg = {
   passions: ['Web Development']
 }
 ```
-
 ## Github_Stats! 📈
-|
-|  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&theme=react)       | ![Antonio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJMG-95&theme=react)                                      |
-|------------------|-------------------------------------------------|
-|       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJMG-95&langs_count=8&theme=react&layout=compact)         | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react)                   |
-|
-                                                                                                      
+<!--
+  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&theme=react)        
+  ![Antonio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJMG-95&theme=react)                   
+  ![Github Stars](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react)                
+-->
+|                                               |                                                   |
+|-----------------------------------------------|---------------------------------------------------|
+| [![Anurag github stats](https://github-readme-stats.vercel.app/api?username=AJMG-95)](https://gitgub.com/AJMG-95/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJMG-95&layout=compact) |
+
 <div align="left">
-  
+ 
 ![](https://komarev.com/ghpvc/?username=AgustinPedrote&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 </div>
-<!--[![Anurag github stats](https://github-readme-stats.vercel.app/api?username=AJMG-95)](https://gitgub.com/AJMG-95/github-readme-stats) -->
 
 <!--
 **AJMG-95/AJMG-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
