@@ -61,7 +61,7 @@ const ajmg = {
 
 <div align="left">
  
-![](https://komarev.com/ghpvc/?username=AgustinPedrote&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AJMG-95&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 </div>
 
