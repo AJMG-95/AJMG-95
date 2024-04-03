@@ -4,7 +4,7 @@
 
 <br>
 
-## Tools & Technologies 🛠️:
+## Tools & Technologies 🛠️
 <hr>
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,13 +27,13 @@
 </p>
 <hr>
 
-## Get in Touch 📬:
+## Get in Touch 📬
 <p align="center">
 <a href="https://www.linkedin.com/in/aj-marchena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:antoniojesusmarchenaguerrero@gmail.com?subject=¡Hola%20Antonio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-## Summary
+## Summary 📝 
 ```js
 const ajmg = {
   pronouns: "he" | "him",
