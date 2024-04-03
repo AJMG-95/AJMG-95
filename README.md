@@ -1,6 +1,6 @@
 # Hi, I'm Antonio 👋🧑‍💻
 
-![me](https://github.com/AJMG-95/AJMG-95/assets/73720092/cdd7fddb-ce2f-4a78-8c10-2276baa35b50)
+![me](https://github.com/AJMG-95/AJMG-95/assets/73720092/0937128a-665b-44fb-9759-c0c3210a5168)
 
 <br>
 
@@ -28,7 +28,6 @@
 <hr>
 
 ## Get in Touch 📬:
-- [linkedin](https://www.linkedin.com/in/aj-marchena/)
 <p align="center">
 <a href="https://www.linkedin.com/in/aj-marchena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:antoniojesusmarchenaguerrero@gmail.com?subject=¡Hola%20Antonio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -50,6 +49,19 @@ const ajmg = {
   passions: ['Web Development']
 }
 ```
+
+## Github_Stats! 📈
+|
+|  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&theme=react)       | ![Antonio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJMG-95&theme=react)                                      |
+|------------------|-------------------------------------------------|
+|       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJMG-95&langs_count=8&theme=react&layout=compact)         | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AJMG-95&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react)                   |
+|
+                                                                                                      
+<div align="left">
+  
+![](https://komarev.com/ghpvc/?username=AgustinPedrote&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+</div>
 <!--[![Anurag github stats](https://github-readme-stats.vercel.app/api?username=AJMG-95)](https://gitgub.com/AJMG-95/github-readme-stats) -->
 
 <!--
