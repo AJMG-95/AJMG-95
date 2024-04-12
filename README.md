@@ -45,7 +45,7 @@ const ajmg = {
   contact: {
     email: 'tuemail@example.com',
     linkedin: 'https://www.linkedin.com/in/tuperfil'
-  }
+  },
   passions: ['Web Development']
 }
 ```
