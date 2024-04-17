@@ -43,7 +43,7 @@ const ajmg = {
   },
   tools: ['Angular', 'Laravel', 'Bootstrap', 'Tailwind', 'Git'],
   contact: {
-    email: 'tuemail@example.com',
+    email: 'antoniojesusmarchenaguerrero@gmail.com',
     linkedin: 'https://www.linkedin.com/in/tuperfil'
   },
   passions: ['Web Development']
