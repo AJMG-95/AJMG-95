@@ -44,7 +44,7 @@ const ajmg = {
   tools: ['Angular', 'Laravel', 'Bootstrap', 'Tailwind', 'Git'],
   contact: {
     email: 'antoniojesusmarchenaguerrero@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/tuperfil'
+    linkedin: 'www.linkedin.com/in/aj-marchena'
   },
   passions: ['Web Development']
 }
