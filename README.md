@@ -1,6 +1,6 @@
 # Hi, I'm Antonio 👋🧑‍💻
 
-![me](https://github.com/AJMG-95/AJMG-95/assets/73720092/0937128a-665b-44fb-9759-c0c3210a5168)
+![me](https://github.com/user-attachments/assets/c070dc35-b3e2-42d4-be9a-40d1e0a4be7e)
 
 <br>
 
