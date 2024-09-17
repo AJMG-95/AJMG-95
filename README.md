@@ -40,10 +40,9 @@
 const ajmg = {
   pronouns: "he" | "him",
   code: {
-    frontend: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-    backend: ['Python', 'Java', 'PHP', 'postgreSQL']
+    frontend: ['HTML', 'CSS', 'Javascript', 'Typescript', 'flutter'],
   },
-  tools: ['Angular', 'Laravel', 'Bootstrap', 'Tailwind', 'Git'],
+  tools: ['Bootstrap', 'Tailwind', 'Angular', 'Git'],
   contact: {
     email: 'antoniojesusmarchenaguerrero@gmail.com',
     linkedin: 'www.linkedin.com/in/aj-marchena'
