@@ -40,7 +40,7 @@
 const ajmg = {
   pronouns: "he" | "him",
   code: {
-    frontend: ['HTML', 'CSS', 'Javascript', 'Typescript', 'flutter'],
+    frontend: ['HTML', 'CSS', 'Javascript', 'Typescript', 'Flutter'],
   },
   tools: ['Bootstrap', 'Tailwind', 'Angular', 'Git'],
   contact: {
