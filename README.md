@@ -39,19 +39,19 @@
 ```js
 const ajmg = {
   code: {
-    frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Dart', 'Flutter'],
+    programmingLanguages: ['JavaScript', 'TypeScript', 'Dart'],
+    markupLanguages: ['HTML5'],
+    styleLanguages: ['CSS3'],
+    frameworks: {
+      frontend: ['Angular (v16–18)', 'React', 'Flutter'],
+      css: ['Tailwind CSS', 'Bootstrap']
+    }
   },
-  tools: [
-    'Angular (v16–18)',
-    'React',
-    'Bootstrap',
-    'Tailwind CSS',
-    'Git',
-    'GitHub',
-    'Figma',
-    'Asana',
-    'Monday'
-  ],
+  tools: {
+    versionControl: ['Git', 'GitHub'],
+    design: ['Figma'],
+    projectManagement: ['Asana', 'Monday']
+  },
   bestPractices: [
     'Clean Architecture',
     'SOLID principles',
@@ -59,7 +59,7 @@ const ajmg = {
     'Web Accessibility'
   ],
   contact: {
-    email: 'antonioj.marchena.dev@gmail.com',
+    email: 'antoniojesusmarchenaguerrero@gmail.com',
     linkedin: 'https://www.linkedin.com/in/aj-marchena'
   },
   passions: ['Web & Mobile Development', 'UI Engineering', 'Mentoring']
