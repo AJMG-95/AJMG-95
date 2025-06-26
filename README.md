@@ -38,7 +38,6 @@
 ## Summary 📝 
 ```js
 const ajmg = {
-  pronouns: "he" | "him",
   code: {
     frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Dart', 'Flutter'],
   },
