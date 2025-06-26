@@ -40,15 +40,32 @@
 const ajmg = {
   pronouns: "he" | "him",
   code: {
-    frontend: ['HTML', 'CSS', 'Javascript', 'Typescript', 'Flutter'],
+    frontend: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Dart', 'Flutter'],
   },
-  tools: ['Bootstrap', 'Tailwind', 'Angular', 'Git'],
+  tools: [
+    'Angular (v16–18)',
+    'React',
+    'Bootstrap',
+    'Tailwind CSS',
+    'Git',
+    'GitHub',
+    'Figma',
+    'Asana',
+    'Monday'
+  ],
+  bestPractices: [
+    'Clean Architecture',
+    'SOLID principles',
+    'Responsive Design',
+    'Web Accessibility'
+  ],
   contact: {
-    email: 'antoniojesusmarchenaguerrero@gmail.com',
-    linkedin: 'www.linkedin.com/in/aj-marchena'
+    email: 'antonioj.marchena.dev@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/aj-marchena'
   },
-  passions: ['Web Development']
+  passions: ['Web & Mobile Development', 'UI Engineering', 'Mentoring']
 }
+
 ```
 ## Github_Stats! 📈
 <!--
