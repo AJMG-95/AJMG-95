@@ -32,7 +32,7 @@
 ## Get in Touch 📬
 <p align="center">
 <a href="https://www.linkedin.com/in/aj-marchena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:antoniojesusmarchenaguerrero@gmail.com?subject=¡Hola%20Antonio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:antonioj.marchena.dev@gmail.com?subject=¡Hola%20Antonio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 ## Summary 📝 
@@ -59,7 +59,7 @@ const ajmg = {
     'Web Accessibility'
   ],
   contact: {
-    email: 'antoniojesusmarchenaguerrero@gmail.com',
+    email: 'antonioj.marchena.dev@gmail.com',
     linkedin: 'https://www.linkedin.com/in/aj-marchena'
   },
   passions: ['Web & Mobile Development', 'UI Engineering', 'Mentoring']
